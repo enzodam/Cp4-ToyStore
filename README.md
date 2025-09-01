@@ -1,4 +1,4 @@
-#Equipe EML
+# 👨‍👩‍👦 Equipe EML
 
 
 # 🧸 ToyStore - Docker Compose
