@@ -221,5 +221,5 @@ docker-compose logs
 ## 📎 Links
 
 - 📂 GitHub: [https://github.com/enzodam/Cp4-ToyStore]
-- 🎥 Vídeo Demo: [link-do-video-demo]
+- 🎥 Vídeo Demo: [https://youtu.be/BrvRtVcbyio]
 - 📚 [Documentação Docker](https://docs.docker.com/)  
