@@ -1,3 +1,6 @@
+#Equipe EML
+
+
 # 🧸 ToyStore - Docker Compose
 ## 📋 Checkpoint 1 - 2º Semestre: DevOps Tools & Cloud Computing
 Migração de aplicação monolítica para arquitetura containerizada com **Docker Compose**.
